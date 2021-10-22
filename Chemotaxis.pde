@@ -19,11 +19,6 @@ void draw(){
    
   }
 }
-void mousePressed(){
-//based on position of mouse, if it clicks on the cirlce then stop the loop for that circle
-  }
-}
-
 
 class Walker{
   int myX, myY, mySize;
