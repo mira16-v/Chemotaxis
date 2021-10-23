@@ -1,4 +1,4 @@
-Walker [] beeHive = new Walker[10];
+Walker [] beeHive = new Walker[7];
 void setup(){
   size(1000, 1000);
   background(255, 246, 170);
